@@ -16,9 +16,7 @@ A simple calculator project built using HTML, CSS and JavaScript.
 - CSS3
 - JavaScript
 
-## 📸 Preview
 
-Add a screenshot of the project here.
 
 ## 👨‍💻 Author
 
